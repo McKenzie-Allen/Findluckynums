@@ -11,4 +11,4 @@ function findLuckyNumbers(n) {
     return luckyNumbers
 }
 
-console.log(findLuckyNumbers(4))
+console.log(findLuckyNumbers(6))
